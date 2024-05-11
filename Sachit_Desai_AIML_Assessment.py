@@ -243,7 +243,7 @@ plt.show()
 
 ### **c. Approaches**
 
-####As this is a time series problem, we can solve this problem using Machine Learning Regression to make predictions or using models such as VAR or ARIMA to make forecasts. I have not worked with the latter models, which is why i went ahead with Regression to solve the problem. I used the following models:
+####we can solve this problem using Machine Learning Regression to make predictions or using models such as VAR or ARIMA to make forecasts. I have not worked with the latter models, which is why i went ahead with Regression to solve the problem. I used the following models:
 1. XGBoost Regressor
 2. Random Forest Regressor
 3. LightGBM Regressor
